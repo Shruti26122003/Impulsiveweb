@@ -27,4 +27,6 @@ const Num = [1, 2, 3, 4];
 const sum = Num.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
 console.log(sum); 
 
+//hellooo
+
 
