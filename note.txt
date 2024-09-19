@@ -1,0 +1,36 @@
+What is Typescript?
+    it is an programming languge which is used to address the shortcoming of javascript.
+    TypeScript is like a smarter version of JavaScript. It helps you catch mistakes in your code early by making you define what kind of data you're working with, 
+    making your code easier to read and fix.
+
+Benefits of TypeScript
+1. static typing
+2. code completion
+3. refactoring
+4. shorthands notation
+
+Here’s a simple breakdown of the key differences between JavaScript and TypeScript:
+
+1. Type System:  
+    JavaScript: Does not use types (it's "dynamically typed"), meaning you can assign any kind of value to a variable.
+    TypeScript: Adds a type system (it's "statically typed"), where you define what type of data (like numbers, strings, etc.) a variable should hold. This helps catch errors before running the code.
+
+2. Compilation:  
+   - JavaScript: Runs directly in the browser or server (like Node.js) without needing to be compiled.
+   - TypeScript: Needs to be compiled (transformed) into JavaScript before it can run, as browsers don’t understand TypeScript.
+
+3. Error Checking:  
+    JavaScript: Errors are usually caught only when you run the code.
+    TypeScript: Errors can be detected while writing code, making it easier to avoid issues before running it.
+
+4. Features:  
+    JavaScript: Focuses on simplicity and flexibility.
+    TypeScript: Offers additional features like interfaces, enums, and advanced type definitions, which help with large and complex projects.
+
+Drawbacks of Typescript
+Setup and Compilation
+Longer Development Time
+Third-party Library Support
+Bigger Project Size
+Learning Curve
+
